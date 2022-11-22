@@ -1,0 +1,17 @@
+body{
+    display: inline;
+}
+
+
+h1{
+    color: red;
+    text-align: center;
+
+
+}
+
+
+h2{
+    /* text-align: right; */
+    color: rgb(230, 20, 55);
+}
